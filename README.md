@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # cyber-x-Md WHATSAPP BOT
 
-<p align = center>   <img src="https://telegra.ph/file/7c886845302dfd3c20176.jpg" alt="GIF" width="600" height="300"/> </p>
+<p align = center>   <img src="https://telegra.ph/file/7c886845302d3c20176.jpg" alt="GIF" width="600" height="300"/> </p>
 
 <p align  = center> <a href="#"><img title="cyber-x-team WHATSAPP BOT" src="https://img.shields.io/badge/cyber-x-md Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
@@ -59,5 +59,5 @@ This is the result of our  hard work and our  owns the bot's rights and code rig
 
 ## ⚖️  cyber-x-team DEVELOPER TEAM* *2K24*  ⚖️
 
-| <a href="https://github.com/zain716"><img src="https://telegra.ph/file/7c886845302dfd3c20176.jpg" width=90 height=90></a>
+| <a href="https://github.com/zain716"><img src="https://telegra.ph/file/7c8868452dfd3c20176.jpg" width=90 height=90></a>
 
