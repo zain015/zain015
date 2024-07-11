@@ -11,16 +11,16 @@ zain015/zain015 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# cyber-x-Md WHATSAPP BOT
+# MR ZAIN 
 
 <p align = center>   <img src="https://telegra.ph/file/7c886845302d3c20176.jpg" alt="GIF" width="600" height="300"/> </p>
 
-<p align  = center> <a href="#"><img title="cyber-x-team WHATSAPP BOT" src="https://img.shields.io/badge/cyber-x-md Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="MR ZAIN 😇😇" src="https://img.shields.io/badge/cyber-x-md Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 
 ## Authors
 
-- [@cyber-x-team]
+- [@mrzain]
 ## Own
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -57,7 +57,7 @@ If you need this non Obb Script or Make you own script with me ( Money propose O
 This is the result of our  hard work and our  owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances.
 
 
-## ⚖️  cyber-x-team DEVELOPER TEAM* *2K24*  ⚖️
+## ⚖️  Mr zain DEVELOPER TEAM* *2K24*  ⚖️
 
 | <a href="https://github.com/zain716"><img src="https://telegra.ph/file/7c8868452dfd3c20176.jpg" width=90 height=90></a>
 
